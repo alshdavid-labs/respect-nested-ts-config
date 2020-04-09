@@ -1,0 +1,1 @@
+# respect-nested-ts-config
