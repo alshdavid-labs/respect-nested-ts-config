@@ -1,0 +1,6 @@
+{
+  "name": "@project/foobar",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}

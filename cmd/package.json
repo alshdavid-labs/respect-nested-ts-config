@@ -1,0 +1,9 @@
+{
+  "name": "@project/cmd",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
